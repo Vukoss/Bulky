@@ -1,0 +1,17 @@
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/bin/Debug/net7.0/Bulky.DataAccess.deps.json
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/bin/Debug/net7.0/Bulky.DataAccess.runtimeconfig.json
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/bin/Debug/net7.0/Bulky.DataAccess.dll
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/bin/Debug/net7.0/Bulky.DataAccess.pdb
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/bin/Debug/net7.0/Bulky.Models.dll
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/bin/Debug/net7.0/Bulky.Models.pdb
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.csproj.AssemblyReference.cache
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.AssemblyInfoInputs.cache
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.AssemblyInfo.cs
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.csproj.CoreCompileInputs.cache
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.csproj.CopyComplete
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.dll
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/obj/Debug/net7.0/refint/Bulky.DataAccess.dll
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.pdb
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.genruntimeconfig.cache
+/Users/patryk/Projects/Bulky/Bulky.DataAccess/obj/Debug/net7.0/ref/Bulky.DataAccess.dll

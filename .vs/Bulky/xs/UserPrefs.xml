@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C175EBA6-D7EE-4061-9C4E-E38543FC1078}|http">
+  <MonoDevelop.Ide.ItemProperties.BulkyWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyWeb/Program.cs">
+    <Files>
+      <File FileName="Bulky.DataAccess/Repository/IRepository/ICategoryRepository.cs" Line="12" Column="1" />
+      <File FileName="Bulky.DataAccess/Repository/IRepository/IRepository.cs" Line="1" Column="1" />
+      <File FileName="Bulky.DataAccess/Repository/CategoryRepository.cs" Line="16" Column="10" />
+      <File FileName="Bulky.DataAccess/Repository/IRepository/IUnitOfWork.cs" Line="1" Column="1" />
+      <File FileName="Bulky.DataAccess/Repository/UnitOfWork.cs" Line="25" Column="1" />
+      <File FileName="BulkyWeb/Program.cs" Line="24" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bulky" expanded="True">
+            <Node name="Bulky.DataAccess" expanded="True">
+              <Node name="Repository" expanded="True">
+                <Node name="IRepository" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="BulkyWeb" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True" />
+                <Node name="Customer" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
