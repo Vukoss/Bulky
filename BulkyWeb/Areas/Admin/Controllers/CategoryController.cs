@@ -6,6 +6,7 @@ using Bulky.DataAccess.DataAccess;
 using Bulky.DataAccess.Repository.IRepository;
 using Bulky.Models.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -24,6 +25,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
         public IActionResult Index()
         {
             var objCategoryList = _unitOfWork.Category.GetAll().ToList();
+
             return View(objCategoryList);
         }
 
@@ -47,7 +49,6 @@ namespace BulkyWeb.Areas.Admin.Controllers
                 TempData["Success"] = "Category created successfully";
                 return RedirectToAction("Index");
             }
-
             return View();
         }
 
@@ -113,4 +114,3 @@ namespace BulkyWeb.Areas.Admin.Controllers
         }
     }
 }
-
